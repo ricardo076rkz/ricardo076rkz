@@ -37,5 +37,14 @@
  - Aba ganhos mostrando: valor recebido, conteúdos ativos, itens em revisão e visualizações
 
 ## Instalação
-   git clone <index.html>
-  
+ - Siga esse link para o meu protótipo
+ - [Clique aqui para ver o projeto rodando(https://ricardo076rkz.github.io/ricardo076rkz/)
+
+  ### 🛠️ Como rodar localmente
+1. Clone o repositório: `git clone https://github.com/seu-usuario/seu-repo.git`
+2. Abra o arquivo `index.html` no seu navegador.
+
+### 📚 Tecnologias Utilizadas
+- HTML5
+- CSS3
+- JavaScript
