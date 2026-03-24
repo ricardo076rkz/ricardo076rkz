@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - AFASA SYSTEMS</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div style="min-height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 32px 24px;">
+        <div style="width: 100%; max-width: 400px;">
+            <div class="logo-container">
+                <div class="logo-box">
+                    <img class="logo-img" src="images/logo.jpg" alt="AFASA SYSTEMS Logo" style="width: 100%; height: 100%; object-fit: contain; border-radius: 12px;">
+                </div>
+                <div class="brand-name">AFASA SYSTEMS</div>
+            </div>
+
+            <div style="text-align: center; margin: 32px 0;">
+                <h2 style="font-size: 32px; margin-bottom: 8px;">Bem-vindo</h2>
+                <p style="color: var(--gray-light); font-size: 16px;">
+                    Selecione seu perfil e entre na plataforma
+                </p>
+            </div>
+
+            <!-- ✅ NOVO: Seletor de Perfil -->
+            <div class="profile-selector-container">
+                <label style="font-size: 14px; margin-bottom: 12px; display: block;">Tipo de Conta</label>
+                <div class="profile-selector">
+                    <button type="button" class="profile-option active" data-profile="consumer" onclick="selectProfile('consumer')">
+                        <svg class="profile-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+                            <circle cx="12" cy="7" r="4"></circle>
+                        </svg>
+                        <span class="profile-label">Consumidor</span>
+                    </button>
+                    <button type="button" class="profile-option" data-profile="professional" onclick="selectProfile('professional')">
+                        <svg class="profile-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect>
+                            <path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path>
+                        </svg>
+                        <span class="profile-label">Profissional</span>
+                    </button>
+                    <button type="button" class="profile-option" data-profile="curator" onclick="selectProfile('curator')">
+                        <svg class="profile-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M22 10v6M2 10l10-5 10 5-10 5z"></path>
+                            <path d="M6 12v5c3 3 9 3 12 0v-5"></path>
+                        </svg>
+                        <span class="profile-label">Curador</span>
+                    </button>
+                </div>
+                <p id="profile-description" class="profile-description">Acesse cursos e aprenda</p>
+            </div>
+
+            <form id="login-form" onsubmit="handleLogin(event)">
+                <div class="form-group">
+                    <label for="login-email">E-mail</label>
+                    <input type="email" id="login-email" placeholder="seu@email.com" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="login-password">Senha</label>
+                    <input type="password" id="login-password" placeholder="••••••••" required>
+                    <button type="button" class="password-toggle" onclick="togglePassword('login-password')">👁️</button>
+                </div>
+
+                <button type="submit" class="btn btn-primary" style="margin-top: 24px;">ENTRAR</button>
+
+                <div style="text-align: center; margin-top: 20px;">
+                    <a href="signup.html" class="link-btn">Criar Conta</a>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>

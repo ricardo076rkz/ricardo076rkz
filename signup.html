@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Criar Conta - AFASA SYSTEMS</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div style="min-height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 32px 24px;">
+        <div style="width: 100%; max-width: 400px;">
+            <div class="logo-container">
+                <div class="logo-box">
+                <img class="logo" src="images/logo.jpg" alt="Logo">
+            </a>
+                </div>
+                <div class="brand-name">AFASA SYSTEMS</div>
+            </div>
+
+            <div style="text-align: center; margin: 32px 0;">
+                <h2 style="font-size: 32px; margin-bottom: 8px;">Criar Conta</h2>
+                <p style="color: var(--gray-light); font-size: 16px;">
+                    Junte-se à nossa comunidade sustentável
+                </p>
+            </div>
+
+            <form action="home.html" method="get" onsubmit="localStorage.setItem('isLoggedIn', 'true');">
+                <div class="form-group">
+                    <label for="signup-name">Nome Completo</label>
+                    <input type="text" id="signup-name" placeholder="Seu nome" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="signup-email">E-mail</label>
+                    <input type="email" id="signup-email" placeholder="seu@email.com" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="signup-password">Senha</label>
+                    <input type="password" id="signup-password" placeholder="••••••••" required>
+                    <button type="button" class="password-toggle" onclick="togglePassword('signup-password')">👁️</button>
+                </div>
+
+                <button type="submit" class="btn btn-primary" style="margin-top: 24px;">CRIAR CONTA</button>
+
+                <div style="text-align: center; margin-top: 20px;">
+                    <a href="login.html" class="link-btn">Já tenho conta</a>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
