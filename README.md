@@ -4,6 +4,5 @@
 - 🌱 Estudando Html, Css, Js, Py, Java.
 - 🤔 Criando projeto de rumo alimentar
 - 💬 Equipe Nova Roma caruaru
-- 😄 Pronouns Ele/Dele
 - 👥 Participantes Rafael, Marcos, Jõao e Giseli
 
