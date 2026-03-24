@@ -38,7 +38,7 @@
 
 ## Instalação
  - Siga esse link para o meu protótipo
- - [Clique aqui para ver o projeto rodando(https://ricardo076rkz.github.io/ricardo076rkz/)
+ - [Clique aqui para ver o projeto rodando](https://ricardo076rkz.github.io/ricardo076rkz/)
 
   ### 🛠️ Como rodar localmente
 1. Clone o repositório: `git clone https://github.com/seu-usuario/seu-repo.git`
