@@ -48,5 +48,3 @@
 - HTML5
 - CSS3
 - JavaScript
-
-- ![Image](https://github.com/user-attachments/assets/810999a4-003e-4960-a8cf-70a548818516)
