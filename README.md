@@ -35,4 +35,7 @@
  ## Perfil Profissional
  - Criar curso e Criar receita " Em andamento para ser funcional "
  - Aba ganhos mostrando: valor recebido, conteúdos ativos, itens em revisão e visualizações
+
+## Instalação
+   git clone <index.html>
   
