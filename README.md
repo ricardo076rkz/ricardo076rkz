@@ -23,7 +23,7 @@
 - Curso: mostrando etapas do curso que está fazendo e vídeos, indicando avaliação, alubos e taxa de conclusão
 - Comunidade: pessoas postando sobre hortas e receitas para fazer, tendo a opção de postar sua própia receita
 - Informações: uma breve descrição da fábrica com missão e valores
-- Perfil:
+- Perfil: Mostra informações do usuário e configurações
 
 
 ## Perfil Curador
