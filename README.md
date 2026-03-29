@@ -38,7 +38,7 @@
 
 ## Protótipo
  - Siga esse link para o nosso protótipo
- - [Clique aqui para ver o projeto rodando](https://ricardo076rkz.github.io/ricardo076rkz/)
+ - [Clique aqui para ver o protótipo rodando](https://ricardo076rkz.github.io/ricardo076rkz/)
 
 ### 📚 Tecnologias Utilizadas
 - HTML5
