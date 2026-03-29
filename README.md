@@ -36,13 +36,9 @@
  - Criar curso e Criar receita " Em andamento para ser funcional "
  - Aba ganhos mostrando: valor recebido, conteúdos ativos, itens em revisão e visualizações
 
-## Instalação
- - Siga esse link para o meu protótipo
+## Protótipo
+ - Siga esse link para o nosso protótipo
  - [Clique aqui para ver o projeto rodando](https://ricardo076rkz.github.io/ricardo076rkz/)
-
-  ### 🛠️ Como rodar localmente
-1. Clone o repositório: `git clone https://github.com/seu-usuario/seu-repo.git`
-2. Abra o arquivo `index.html` no seu navegador.
 
 ### 📚 Tecnologias Utilizadas
 - HTML5
