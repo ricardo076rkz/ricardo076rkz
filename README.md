@@ -25,7 +25,6 @@
 - Informações: uma breve descrição da fábrica com missão e valores
 - Perfil: Mostra informações do usuário e configurações
 
-
 ## Perfil Curador
 - Pendentes e Revisados
 - Aprovação de receita
