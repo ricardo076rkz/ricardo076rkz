@@ -47,6 +47,7 @@
 🚀 Funcionalidades Principais
 
 🌱 Trilhas de Aprendizado Segmentadas
+ 
 -Módulo Iniciante: Conteúdo introdutório para quem está montando a primeira horta ou plantação doméstica.
 -Módulo Fazendeiro: Técnicas avançadas de manejo, escala de produção e gestão de campo.
 
