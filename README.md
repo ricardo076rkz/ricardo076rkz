@@ -46,7 +46,7 @@
 
 🚀 Funcionalidades Principais
 
-🌱 Trilhas de Aprendizado Segmentadas:
+🌱 Trilhas de Aprendizado Segmentadas
 
 Módulo Iniciante: Conteúdo introdutório para quem está montando a primeira horta ou plantação doméstica.
 
