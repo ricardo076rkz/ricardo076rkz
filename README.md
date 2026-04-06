@@ -58,7 +58,9 @@ Módulo Fazendeiro: Técnicas avançadas de manejo, escala de produção e gest�
 
 📚 Catálogo de Culturas: Um banco de dados completo com as particularidades de cada planta (clima ideal, tempo de rega e pragas comuns).
 
-🌍 Impacto Social: Foco na acessibilidade da informação para diferentes povos, promovendo a soberania alimentar e o sustento local.🚀 Funcionalidades Principais 
+🌍 Impacto Social: Foco na acessibilidade da informação para diferentes povos, promovendo a soberania alimentar e o sustento local.
+
+🚀 Funcionalidades Principais 
 
 🌱 Trilhas de Aprendizado Segmentadas:
 Módulo Iniciante: Conteúdo introdutório para quem está montando a primeira horta ou plantação doméstica.
