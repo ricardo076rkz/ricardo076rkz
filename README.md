@@ -59,18 +59,3 @@ Módulo Fazendeiro: Técnicas avançadas de manejo, escala de produção e gest�
 📚 Catálogo de Culturas: Um banco de dados completo com as particularidades de cada planta (clima ideal, tempo de rega e pragas comuns).
 
 🌍 Impacto Social: Foco na acessibilidade da informação para diferentes povos, promovendo a soberania alimentar e o sustento local.
-
-🚀 Funcionalidades Principais 
-
-🌱 Trilhas de Aprendizado Segmentadas:
-Módulo Iniciante: Conteúdo introdutório para quem está montando a primeira horta ou plantação doméstica.
-Módulo Fazendeiro: Técnicas avançadas de manejo, escala de produção e gestão de campo.
-
-🎥 Videoteca Educativa: Tutoriais detalhados em vídeo cobrindo desde a escolha da semente até a colheita, garantindo que o conhecimento seja visual e prático.
-
-🧪 Guia Especializado de Adubação: Instruções específicas sobre como preparar o solo, criar adubos orgânicos e aplicar fertilizantes de forma eficiente para cada
-tipo de fruta.
-
-📚 Catálogo de Culturas: Um banco de dados completo com as particularidades de cada planta (clima ideal, tempo de rega e pragas comuns).
-
-🌍 Impacto Social: Foco na acessibilidade da informação para diferentes povos, promovendo a soberania alimentar e o sustento local.
