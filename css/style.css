@@ -120,7 +120,6 @@ label {
 
 .logo {
     width: 64px;
-    height: 64px;
     background: linear-gradient(135deg, #2ECC71 0%, #FF8C00 100%);
     border-radius: 12px;
     display: flex;
