@@ -37,7 +37,7 @@
 
 ## Protótipo
  - Siga esse link para o nosso protótipo
- - [Clique aqui para ver o protótipo rodando](https://ricardo076rkz.github.io/ricardo076rkz/)
+ - [Clique aqui para ver o protótipo rodando](http://127.0.0.1:5500/afasasystems-main/login.html)
 
 ## 📚 Tecnologias Utilizadas
 - HTML5
